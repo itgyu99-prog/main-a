@@ -1,5 +1,3 @@
-print("안녕하세요")
-print("반갑습니다")
-print("완전 반갑")
-print("매우 반갑")
-print("오지게 반갑")
+print("잘가")
+print("안녕히")
+print("가십쇼")
